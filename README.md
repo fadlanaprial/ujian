@@ -12,6 +12,7 @@ Software Yang dibutuhkan :
 Panduan Menjalankan Sistem Program :
 <li>Jalankan AMPPS dan nyalakan MYSQL & Apache</li>
 <li>Taruh file semuanya pada folder WWW di AMPPS di MAC USER</li>
+<li>Sesuaikan konfigurasi databasenya yang ada pada index.php baris ketiga  $koneksi = new mysqli (HOSTNAME, USERNAME, PASSWORD, DBNAME)</li>
 <li>Import DB dengan nama database pada Localhost/phpmyadmin</li>
 <li>Panggil alamat folder di browser</li>
 <li>Done</li></u>
