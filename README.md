@@ -1,19 +1,19 @@
 Nama: M Fadlan Aprial D
 ==============================================================================================================================
 <ul>
-<li>Software Yang dibutuhkan :
-MAC OS EL-Capitan
-Browser(Google Chrome)
-AMPPS (untuk menjalankan Localhost)
-Sublime Text (Engine Editor) sebuah teks editor yang sangat canggih untuk coding, markup dan lain-lain.</li></u>
+Software Yang dibutuhkan :
+<li>MAC OS EL-Capitan</li>
+<li>Browser(Google Chrome)</li>
+<li>AMPPS (untuk menjalankan Localhost)</li>
+<li>Sublime Text (Engine Editor) sebuah tek</li>s editor yang sangat canggih untuk coding, markup dan lain-lain.</li></u>
 ==============================================================================================================================
 Panduan Menjalankan Sistem Program :
-
-Jalankan AMPPS dan nyalakan MYSQL & Apache
-Taruh file semuanya pada folder WWW di AMPPS di MAC USER
-Import DB dengan nama database pada Localhost/phpmyadmin
-Panggil alamat folder di browser
-Done
+<ul>
+<li>Jalankan AMPPS dan nyalakan MYSQL & Apache</li>
+<li>Taruh file semuanya pada folder WWW di AMPPS di MAC USER</li>
+<li>Import DB dengan nama database pada Localhost/phpmyadmin</li>
+<li>Panggil alamat folder di browser</li>
+<li>Done</li></u>
 ==============================================================================================================================
 Bahasa Pemrograman yang dipakai :
 HTML
