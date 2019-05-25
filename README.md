@@ -1,10 +1,11 @@
 Nama: M Fadlan Aprial D
 ==============================================================================================================================
-Software Yang dibutuhkan :
+<ul>
+<li>Software Yang dibutuhkan :
 MAC OS EL-Capitan
 Browser(Google Chrome)
 AMPPS (untuk menjalankan Localhost)
-Sublime Text (Engine Editor) sebuah teks editor yang sangat canggih untuk coding, markup dan lain-lain.
+Sublime Text (Engine Editor) sebuah teks editor yang sangat canggih untuk coding, markup dan lain-lain.</li></u>
 ==============================================================================================================================
 Panduan Menjalankan Sistem Program :
 
