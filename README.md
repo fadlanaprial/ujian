@@ -42,4 +42,5 @@ Capture:
 <img src="before.png">
 <li>after</li>
 <img src="after.png">
-<li><img src="mobile.png"></li> </ul>
+<li>mobile</li>
+<img src="mobile.png"></ul>
