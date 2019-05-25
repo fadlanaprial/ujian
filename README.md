@@ -38,7 +38,7 @@ Kegunaan JSON (JavaScript Object Notation)
 Capture:
 
 <li>before</li>
-![Screenshot](before.png)
+![alt text](before.png)
 <li>after</li>
 ![Screenshot](after.png)
 <li>![Screenshot](mobile.png)</li> </ul>
