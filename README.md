@@ -38,7 +38,7 @@ Kegunaan JSON (JavaScript Object Notation)
 Capture:
 
 <li>before</li>
-(before.png)
+![before](https://github.com/fadlanaprial/ujian/blob/master/before.png?raw=true)
 <li>after</li>
 ![Screenshot](after.png)
 <li>![Screenshot](mobile.png)</li> </ul>
