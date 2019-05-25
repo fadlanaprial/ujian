@@ -16,7 +16,7 @@ function ubah_kata($asli,$ganti,$gantikan) {
 	echo $me;
 }
 
-ubah_kata('purwakerto','a','o');
+ubah_kata('purwakarta','a','o');
 
 
 
