@@ -5,7 +5,8 @@ Software Yang dibutuhkan :
 <li>MAC OS EL-Capitan</li>
 <li>Browser(Google Chrome)</li>
 <li>AMPPS (untuk menjalankan Localhost)</li>
-<li>Sublime Text (Engine Editor) sebuah tek</li>s editor yang sangat canggih untuk coding, markup dan lain-lain.</li></u>
+<li>Sublime Text (Engine Editor) sebuah tek</li>s editor yang sangat canggih untuk coding, markup dan lain-lain.
+ </li></u>
 ==============================================================================================================================
 Panduan Menjalankan Sistem Program :
 <ul>
