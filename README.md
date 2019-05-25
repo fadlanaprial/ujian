@@ -34,5 +34,11 @@ Kegunaan JSON (JavaScript Object Notation)
 <li>Dapat dikenalin dan dikomsumsi banyak bahasa pemrograman.</li>
 <li>Digunakan untuk file konfigurasi (tetapi tidak support sintaks komentar).</li></ul>
 
+<ul>
+Capture:
 
- 
+<li>before</li>
+![Screenshot](before.png)
+<li>after</li>
+![Screenshot](after.png)
+<li>![Screenshot](mobile.png)</li> </ul>
