@@ -1,0 +1,3 @@
+SELECT users.*, (SELECT COUNT(user_id)  FROM skills WHERE users.id = skills.user_id) AS j_skill FROM users
+
+
