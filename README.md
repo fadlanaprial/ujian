@@ -1,5 +1,5 @@
 Nama: M Fadlan Aprial D
-==============================================================================================================================
+<hL>
 <ul>
 Software Yang dibutuhkan :
 <li>MAC OS EL-Capitan</li>
@@ -7,7 +7,7 @@ Software Yang dibutuhkan :
 <li>AMPPS (untuk menjalankan Localhost)</li>
 <li>Sublime Text (Engine Editor) sebuah teks editor yang sangat canggih untuk coding, markup dan lain-lain.
  </li></u>
-==============================================================================================================================
+<hl>
 Panduan Menjalankan Sistem Program :
 <ul>
 <li>Jalankan AMPPS dan nyalakan MYSQL & Apache</li>
@@ -15,14 +15,14 @@ Panduan Menjalankan Sistem Program :
 <li>Import DB dengan nama database pada Localhost/phpmyadmin</li>
 <li>Panggil alamat folder di browser</li>
 <li>Done</li></u>
-==============================================================================================================================
+<hl>
 Bahasa Pemrograman yang dipakai :
 HTML
 JSON
 PHP
 CSS
 Framework :  twitter bootstrap
-==============================================================================================================================
+<hl>
 Rest (Respresentational State Transfer) API (Application Programming Interface) adalah Rest adalah aturan dan gaya perancangan dan API penghubungnya sehingga sebuah webservice bisa melakukan request & response data yang dikirim/diterima berupa JSON.
 
 Kegunaan JSON (JavaScript Object Notation)
@@ -31,6 +31,6 @@ Kegunaan JSON (JavaScript Object Notation)
 3. Sintaksnya sangat sederhana dan jelas(dibanding XML)
 4. Dapat dikenalin dan dikomsumsi banyak bahasa pemrograman.
 5. Digunakan untuk file konfigurasi (tetapi tidak support sintaks komentar).
-==============================================================================================================================
+<hl>
 
  
